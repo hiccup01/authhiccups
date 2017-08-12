@@ -6,6 +6,8 @@
   "author": "hiccup01",
   "license": "MIT",
   "dependencies": {
-    "jssha": "^2.3.1"
+    "base32": "^0.0.6",
+    "jssha": "^2.3.1",
+    "left-pad": "^1.1.3"
   }
 }
